@@ -1,0 +1,2 @@
+# Assinaturas
+TESTE DE ASSINATURAS
